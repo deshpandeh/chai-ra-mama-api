@@ -1,0 +1,39 @@
+{
+  "name": "api-chai-ra-mama",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 8080",
+    "build": "next build",
+    "start": "next start -p 8080",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.7",
+    "@mui/material": "^5.14.7",
+    "@reduxjs/toolkit": "^1.9.5",
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^5.3.1",
+    "crypto": "^1.0.1",
+    "eslint": "8.48.0",
+    "eslint-config-next": "13.4.19",
+    "ip-address": "^9.0.5",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^5.9.1",
+    "mongoose": "^7.4.5",
+    "next": "^14.0.4",
+    "nodemailer": "^6.9.7",
+    "razorpay": "^2.9.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-loading-skeleton": "^3.3.1",
+    "react-redux": "^8.1.2",
+    "request-ip": "^3.3.0",
+    "resend": "^2.0.0",
+    "sass": "^1.66.1",
+    "uuid": "^9.0.1",
+    "validator": "^13.11.0"
+  }
+}
